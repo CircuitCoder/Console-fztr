@@ -1,0 +1,11 @@
+[package]
+name = "console-fztr"
+version = "0.1.0"
+authors = ["Liu Xiaoyi <circuitcoder0@gmail.com>"]
+
+[dependencies]
+wkhtmltopdf = "*"
+router = "*"
+iron = "*"
+rand = "*"
+lazy_static = "*"
